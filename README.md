@@ -1,5 +1,5 @@
-### Name: Kalaiselvan J
-### Reg no: 212223080022
+### Name: Mohamed Fahad S
+### Reg no: 212224080037
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
@@ -42,7 +42,8 @@ Sl. No. Apparatus Specification Quantity
 
 
 
-## Result:thus we have  verified  the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
+## Result:
+Thus we have  verified  the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
   
 
 
