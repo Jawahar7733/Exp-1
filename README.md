@@ -1,5 +1,5 @@
-### Name: Mohamed Fahad S
-### Reg no: 212224080037
+### Name: Jawahar A
+### Reg no: 212224080020
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
